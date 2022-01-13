@@ -14,7 +14,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
-  font-size: 35px;
+  font-size: 40px;
   color: black;
 }
 .aspswe {
@@ -23,7 +23,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
-  font-size: 25px;
+  font-size: 30px;
   color: black;
 }
 .github-button{
