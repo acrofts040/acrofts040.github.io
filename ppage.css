@@ -10,17 +10,17 @@
 }
 .name {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
-  font-size: large;
+  font-size: 20px;
 }
 .aspswe {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
-  font-size: medium;
+  font-size: 15px;
 }
