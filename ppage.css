@@ -28,4 +28,7 @@
 }
 .github-button{
   border-radius: 100%;
+  position: absolute;
+  top: 85%;
+  left: 50%;
 }
