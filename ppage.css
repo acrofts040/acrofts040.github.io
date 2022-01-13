@@ -28,7 +28,7 @@
 }
 .github-button{
   background-color: #FFFFFF;
-  border-radius: 100%;
+  /* border-radius: 100%; */
   position: absolute;
   top: 85%;
   left: 50%;
