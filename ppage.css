@@ -15,6 +15,7 @@
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
   font-size: 20px;
+  color: black;
 }
 .aspswe {
   position: absolute;
@@ -23,4 +24,5 @@
   transform: translate(-50%, -50%);
   font-family: 'Courier New', monospace;
   font-size: 15px;
+  color: black;
 }
