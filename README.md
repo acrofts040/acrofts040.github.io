@@ -1,6 +1,4 @@
-# comp120-acrofts
-
-Andrew Crofts personal webpage
+# Andrew Crofts Personal Webpage
 
 
 Upcoming: 
